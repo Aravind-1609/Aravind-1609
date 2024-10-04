@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aravind-1609
+- 👋 Hi, I’m @Aravindhan D K
 - 👀 I’m interested in front-end developement
 - 🌱 I’m currently learning engineering
 - 💞️ I’m looking to collaborate on free-lance
